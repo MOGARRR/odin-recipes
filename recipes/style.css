@@ -55,11 +55,3 @@ img{
     border-radius: 25px;
     border-style: solid;
 }
-#landing{
-    background-image: linear-gradient(120deg,rgb(106, 233, 233),rgb(255, 255, 169));
-    border-radius: 25px;
-    width: 60%;
-    padding: 25% 20%;
-    text-align: center;
-    
-}
