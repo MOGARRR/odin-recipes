@@ -30,11 +30,13 @@ body{
     text-align:left;
     width: 30%;
     margin-left: 35%;
+    font-size: larger
 }
 .ingred{
     text-align: center;
     font-size: x-large;
 }
+
 .steps{
     background-color:whitesmoke;
     border-radius: 25px;
@@ -55,3 +57,10 @@ img{
     border-radius: 25px;
     border-style: solid;
 }
+.sublist{
+    font-size:large;
+    padding:40px;
+    margin-left:150px;
+
+}
+
